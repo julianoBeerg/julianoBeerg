@@ -20,7 +20,7 @@
 <div align="center">
   <a href="https://github.com/julianoBeerg">
     <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=julianoBeerg&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoBeerg&theme=dracula&hide_border=false&&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoBeerg&theme=dracula&hide_border=false&&layout=compact&bg_color=40,e96443,904e95&title_color=fff&text_color=fff"/>
   </a>
 </div>
 
