@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/julianoBeerg">
-    <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=julianoBeerg&show_icons=true&theme=radical"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoBeerg&theme=radical&hide_border=false&&layout=compact"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianoBeerg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoBeerg&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
