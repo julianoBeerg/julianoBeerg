@@ -83,6 +83,3 @@
   
 </div>
 
-<div align="center">
-  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
