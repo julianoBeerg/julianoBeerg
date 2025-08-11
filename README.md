@@ -10,8 +10,6 @@
 
 - 🎓 Postgraduate in Software Architecture from FIAP
 
-- ❤️ I love providing amazing experiences through codes
-
 - 💬 Ask me about anything, my contacts are below
 
   <p align="left">Already follow me there, your contribution will be very welcome, thank you! 😉️</h2>
